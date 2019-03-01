@@ -1,4 +1,4 @@
-# Check-Github-Profile-Api
+# Check Your Github Profile-(FetchApi)
 
 
 ![](https://cdn-images-1.medium.com/max/1600/1*safAvjgR68qpQCreDTOcYA.png)
