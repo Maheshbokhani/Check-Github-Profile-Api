@@ -195,4 +195,8 @@
          $ react-native link react-native-gesture-handler
          
  
+# Output:
+
+![](https://firebasestorage.googleapis.com/v0/b/imagestore-b2432.appspot.com/o/Screenshot_2019-03-01-12-50-18.png?alt=media&token=0778c24d-9dab-4fbd-8f63-6f203eb165d2) ![](https://firebasestorage.googleapis.com/v0/b/imagestore-b2432.appspot.com/o/Screenshot_2019-03-01-12-50-35.png?alt=media&token=c851d9b6-8d1d-4f76-ab0d-93006b79fbb5)
+
 
